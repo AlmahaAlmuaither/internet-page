@@ -1,0 +1,50 @@
+
+#globe-img {
+    width: 100px;
+    height: 100px;
+}
+
+#bg {
+    width: 250px;
+    height: 370px;
+    margin-top: 10px;
+}
+
+.img-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+  }
+
+.centered {
+    position: absolute;
+    top: 15%;
+    /*left: 50%;
+    transform: translate(-50%, -50%);*/
+  }
+
+  #ninja-img {
+      width: 120px;
+      height: 170px;
+  }
+
+  #home-img {
+      width: 30px;
+      height: 30px;
+  }
+
+  #phone-img {
+      width: 50px;
+      height: 50px;
+  }
+
+  #clienr-img {
+      width: 700px;
+      height: 250px;
+  }
+
+  #html-img {
+      width: 250px;
+      height: 200px;
+  }
